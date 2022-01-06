@@ -1,0 +1,5 @@
+{
+   "API_URL":"https://pokeapi.co/api/v2/",
+   "SEARCH_POKEMON_DATA":"pokemon/",
+   "limits_search":"pokemon?limit="
+}
